@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋
+I'm Dave, a first-year undergraduate student pursuing a Bachelor of Information Technology. I'm excited to be majoring in Artificial Intelligence & Data Science and Networking & Cyber Security.
 
-<!--
-**PiranhaGoat/PiranhaGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🌱 As a mature age student, I'm thoroughly enjoying the opportunity to learn new skills and expand my knowledge base.
 
-Here are some ideas to get you started:
+💡 I believe that with a growth mindset and an extra measure of grit, you can achieve most things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Languages: Python
+
+Learning: C++
+
+Networking: Strong foundation in networking principles
+
+Data Analysis: Solid foundation in data analysis techniques
+
+Interests
+Machine learning and AI
+
+Scuba Diving
+
+Gardening
+
+Civ6
+
+Fun Fact
+⚡ I love diving into complex problems and finding innovative solutions!
